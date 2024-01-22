@@ -1,0 +1,32 @@
+.bag{
+  background-image:url(../public/pocs/coding2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.list{
+ list-style:none ;
+}
+.bag2{
+  background-image: url(../public/pocs/Aboutbg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.b-bottom{
+  border-bottom: 2px solid white;
+}
+.bag3{
+  background-image: url(../public/pocs/cod4.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bag4{
+  background-image: url(../public/pocs/java.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bag5{
+  background-image: url(../public/pocs/Phyton.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
